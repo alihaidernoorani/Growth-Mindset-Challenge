@@ -4,7 +4,7 @@ import os
 from io import BytesIO
 
 # Set Streamlit page configuration
-st.set_page_config(page_title="File Converter", layout="wide")
+st.set_page_config(page_title="File Converter", page_icon="📂", layout="wide")
 
 # App title and description
 st.title("📂 File Converter")
